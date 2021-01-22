@@ -1,0 +1,9 @@
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\bin\Debug\Calculadora-Ejercicio.exe
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\bin\Debug\Calculadora-Ejercicio.pdb
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\obj\Debug\Calculadora-Ejercicio.csprojAssemblyReference.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\obj\Debug\Calculadora_Ejercicio.Form1.resources
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\obj\Debug\Calculadora_Ejercicio.Properties.Resources.resources
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\obj\Debug\Calculadora-Ejercicio.csproj.GenerateResource.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\obj\Debug\Calculadora-Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\obj\Debug\Calculadora-Ejercicio.exe
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-\Calculadora-Ejercicio\obj\Debug\Calculadora-Ejercicio.pdb
